@@ -1,1 +1,1 @@
-"# prog-mobile-recyclerview" 
+# prog-mobile-recyclerview
